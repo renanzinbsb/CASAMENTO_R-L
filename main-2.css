@@ -178,7 +178,7 @@ button{
 
 /* header */
 .header{
-    background: linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3)), url(../6.jpeg) center/cover no-repeat fixed;
+    background: linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3)), url(../6.jpg) center/cover no-repeat fixed;
     height: 100vh;
 }
 .header .row{
